@@ -1,5 +1,3 @@
-from cgitb import reset
-
 shapes = ["Square", "Trapezium", "Parallelogram", "Circle", "Triangle", "Rectangle", "Ellipse", "Trapezoid"]
 
 print(shapes)
